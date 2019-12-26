@@ -93,12 +93,12 @@ License under the [MIT License](LICENSE)
 
 ### 1-The main page shows two graphs that represnet training dataset.
 
-<img src='https://ibb.co/y8n3mkK' width="500" height="300">
+![pic1](https://github.com/Abdol9900/Disaster-Response-Pipeline-Project/blob/master/pic1.JPG)
 
 ### 2. Here you can type a sentence to test the ML model performance
 
-<img src='https://ibb.co/bP03k23' width="500" height="300">
+![pic2](https://github.com/Abdol9900/Disaster-Response-Pipeline-Project/blob/master/pic3.JPG)
 
-### 3. clicking Classify message to see the categories which the sentence were related.
+### 3. clicking Classify message to see the categories to show where the sentence related to.
 
-<img src='https://ibb.co/DM0nss5' width="500" height="300">
+![pic3](https://github.com/Abdol9900/Disaster-Response-Pipeline-Project/blob/master/pic5.JPG)
